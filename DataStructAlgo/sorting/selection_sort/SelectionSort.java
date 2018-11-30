@@ -4,7 +4,7 @@ public class SelectionSort{
 
       for(int lastUnsortedIndex=array.length-1; lastUnsortedIndex>0;lastUnsortedIndex--){
           int largest=0;
-        for(int i=0;i<=lastUnsortedIndex;i++){ // if we don't put equal sign
+        for(int i=1;i<=lastUnsortedIndex;i++){ // if we don't put equal signS
 
           if(array[i]>array[largest]){
             largest=i;
