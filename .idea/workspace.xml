@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c7196a2-5147-47a6-9b7a-6cc254d31873" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+            <state relative-caret-position="226">
+              <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
               <folding>
                 <element signature="e#783#784#0" expanded="true" />
                 <element signature="e#808#809#0" expanded="true" />
@@ -33,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -64,9 +66,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="49" />
-    <option name="y" value="319" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="32" />
+    <option name="y" value="11" />
     <option name="width" value="1346" />
     <option name="height" value="687" />
   </component>
@@ -88,6 +90,12 @@
               <item name="al-khwarizmi" type="b2602c69:ProjectViewProjectNode" />
               <item name="al-khwarizmi" type="462c0819:PsiDirectoryNode" />
               <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="al-khwarizmi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="al-khwarizmi" type="462c0819:PsiDirectoryNode" />
+              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
+              <item name="Stack" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -141,7 +149,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="49" y="319" width="1346" height="687" extended-state="0" />
+    <frame x="32" y="11" width="1346" height="687" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27216175" />
@@ -198,13 +206,6 @@
     <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/Stack">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-561">
@@ -214,10 +215,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/Stack">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="33" column="29" lean-forward="true" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        <state relative-caret-position="226">
+          <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
           <folding>
             <element signature="e#783#784#0" expanded="true" />
             <element signature="e#808#809#0" expanded="true" />
@@ -229,8 +237,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

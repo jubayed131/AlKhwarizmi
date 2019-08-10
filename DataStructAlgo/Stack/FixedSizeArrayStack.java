@@ -76,7 +76,7 @@ public class FixedSizeArrayStack{
         System.out.println("Another Pop "+fixedSizeArrayStack.pop());
         System.out.println("Another pop "+fixedSizeArrayStack.pop());
         System.out.println("After doing pop"+fixedSizeArrayStack.toString());
-        System.out.println("Empty?"+fixedSizeArrayStack.isEmpty());
+        System.out.println("Empty? "+fixedSizeArrayStack.isEmpty());
 
 
 
