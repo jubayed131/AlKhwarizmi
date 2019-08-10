@@ -1,0 +1,10 @@
+
+public class Stack {
+    FixedSizeArrayStack fixedSizeArrayStack;
+
+    public static void main(String[] args){
+
+     fixedSizeArrayStack=new FixedSizeArrayStack(10);
+    }
+
+}
