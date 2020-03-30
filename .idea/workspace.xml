@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c7196a2-5147-47a6-9b7a-6cc254d31873" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,11 +18,9 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="1258">
               <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
               <folding>
-                <element signature="e#783#784#0" expanded="true" />
-                <element signature="e#808#809#0" expanded="true" />
                 <element signature="e#666#667#0" expanded="true" />
                 <element signature="e#696#697#0" expanded="true" />
               </folding>
@@ -66,7 +62,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="32" />
     <option name="y" value="11" />
     <option name="width" value="1346" />
@@ -79,28 +75,7 @@
     <panes>
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="al-khwarizmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="al-khwarizmi" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="al-khwarizmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="al-khwarizmi" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="al-khwarizmi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="al-khwarizmi" type="462c0819:PsiDirectoryNode" />
-              <item name="DataStructAlgo" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,9 +125,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="32" y="11" width="1346" height="687" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27216175" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27604976" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -181,18 +155,8 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/DataStructAlgo/sorting/bubble_sort/BubbleSort.class">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructAlgo/Array/Traverse.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#0#423#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructAlgo/sorting/bubble_sort/BubbleSort.class" />
+    <entry file="file://$PROJECT_DIR$/DataStructAlgo/Array/Traverse.class" />
     <entry file="file://$PROJECT_DIR$/DataStructAlgo/sorting/shell_sort/ShellShort.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -203,9 +167,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-561">
@@ -215,23 +176,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1258">
+          <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
+          <folding>
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/Stack">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="51" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataStructAlgo/Stack/FixedSizeArrayStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="78" column="35" selection-start-line="78" selection-start-column="35" selection-end-line="78" selection-end-column="35" />
-          <folding>
-            <element signature="e#783#784#0" expanded="true" />
-            <element signature="e#808#809#0" expanded="true" />
-            <element signature="e#666#667#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
