@@ -1,3 +1,5 @@
+package arrays;
+
 public class CyclicRotationSelf {
 
 public static int[] solution(int[] A, int k){

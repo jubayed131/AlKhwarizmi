@@ -2,33 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f917b01-25a6-4b45-bb6b-394acf757d5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../HashTable/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTable/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTable/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTable/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTable/HashTable.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTable/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTable/src/HashTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTable/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/HashTableLinearProbing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/src/HashtableLinearProbing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashTableLinearProbing/src/StoredEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/HashtableChaining.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/src/ChainedHashtable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../HashtableChaining/src/StoredEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BinarySearch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BinarySearch/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterations/BinaryGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryGapProblem" beforeDir="false" afterPath="$PROJECT_DIR$/src/iterations/BinaryGapProblem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CyclicRotationProblem" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/CyclicRotationProblem" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CyclicRotationSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/CyclicRotationSelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddOccurances.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/OddOccurances.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OddOcurracnesProblem" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrays/OddOcurracnesProblem" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,64 +24,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryGap.java">
+        <entry file="file://$PROJECT_DIR$/src/stacks_queues/BracketsProblem">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CyclicRotationSelf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
+            <state relative-caret-position="484">
+              <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/OddOccurances.java">
+        <entry file="file://$PROJECT_DIR$/src/stacks_queues/Brackets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#148#165#0" expanded="true" />
-                <element signature="e#785#786#0" expanded="true" />
-                <element signature="e#820#821#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/OddOcurracnesProblem">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CyclicRotationProblem">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="924">
-              <caret line="42" selection-start-line="42" selection-end-line="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryGapProblem">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="44">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -125,14 +61,24 @@
         <option value="$PROJECT_DIR$/src/CyclicRotationProblem" />
         <option value="$PROJECT_DIR$/src/CyclicRotationSelf.java" />
         <option value="$PROJECT_DIR$/src/OddOcurracnesProblem" />
+        <option value="$PROJECT_DIR$/src/FrogImpl" />
+        <option value="$PROJECT_DIR$/src/FrogImpl.java" />
+        <option value="$PROJECT_DIR$/src/PermMissingElem" />
+        <option value="$PROJECT_DIR$/src/PermMissingElem.java" />
         <option value="$PROJECT_DIR$/src/OddOccurances.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/src/TapeEquillibrium" />
+        <option value="$PROJECT_DIR$/src/TapeEquillibrium.java" />
+        <option value="$PROJECT_DIR$/src/FrogRiverOneProblem" />
+        <option value="$PROJECT_DIR$/src/FrogRiverOne.java" />
+        <option value="$PROJECT_DIR$/src/PermCheckProblem" />
+        <option value="$PROJECT_DIR$/src/PermCheck.java" />
+        <option value="$PROJECT_DIR$/src/PassingCars.java" />
+        <option value="$PROJECT_DIR$/src/MaxProductOfThreeProblem" />
+        <option value="$PROJECT_DIR$/src/MaxProductOfThree.java" />
+        <option value="$PROJECT_DIR$/src/Triangle" />
+        <option value="$PROJECT_DIR$/src/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/sorting/Triangle.java" />
+        <option value="$PROJECT_DIR$/src/stacks_queues/BracketsProblem" />
       </list>
     </option>
   </component>
@@ -148,8 +94,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,6 +108,12 @@
               <item name="Codility" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Codility" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Codility" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="stacks_queues" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -169,8 +121,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Data-Structure\al-khwarizmi\DataStructAlgo\Codility\src\iterations" />
+      <recent name="D:\Data-Structure\al-khwarizmi\DataStructAlgo\Codility\src\arrays" />
+      <recent name="D:\Data-Structure\al-khwarizmi\DataStructAlgo\Codility\src\TimeComplexity" />
+      <recent name="D:\Data-Structure\al-khwarizmi\DataStructAlgo\Codility\src\counting" />
+      <recent name="D:\Data-Structure\al-khwarizmi\DataStructAlgo\Codility\src\sorting" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,23 +146,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OddOccurances">
-    <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BinaryGap" />
+  <component name="RunManager" selected="Application.Triangle">
+    <configuration name="FrogRiverOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FrogRiverOne" />
       <module name="Codility" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CyclicRotationSelf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CyclicRotationSelf" />
+    <configuration name="MaxProductOfThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MaxProductOfThree" />
       <module name="Codility" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OddOccurances" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="OddOccurances" />
+    <configuration name="PassingCars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prefix_sums.PassingCars" />
+      <module name="Codility" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PermCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PermCheck" />
+      <module name="Codility" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Triangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Triangle" />
       <module name="Codility" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -208,9 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.OddOccurances" />
-        <item itemvalue="Application.CyclicRotationSelf" />
-        <item itemvalue="Application.BinaryGap" />
+        <item itemvalue="Application.Triangle" />
+        <item itemvalue="Application.MaxProductOfThree" />
+        <item itemvalue="Application.PassingCars" />
+        <item itemvalue="Application.PermCheck" />
+        <item itemvalue="Application.FrogRiverOne" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +209,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30332828" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34795764" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -240,13 +218,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3469388" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" weight="0.17517006" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50075644" side_tool="true" visible="true" weight="0.17517006" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -264,7 +242,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryGap.java">
+    <entry file="file://$PROJECT_DIR$/src/iterations/BinaryGap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
           <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
@@ -274,44 +252,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CyclicRotationProblem">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="924">
-          <caret line="42" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryGapProblem">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CyclicRotationSelf.java">
+    <entry file="file://$PROJECT_DIR$/src/arrays/CyclicRotationSelf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="16" column="60" selection-start-line="16" selection-start-column="60" selection-end-line="16" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OddOcurracnesProblem">
+    <entry file="file://$PROJECT_DIR$/src/arrays/OddOccurances.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeComplexity/TapeEquillibrium">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="30" column="1" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeComplexity/TapeEquillibrium.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/counting/FrogRiverOneProblem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="36" column="1" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/counting/FrogRiverOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="30" column="37" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/counting/PermCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/counting/PermCheckProblem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="1" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeComplexity/FrogImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+          <folding>
+            <element signature="e#264#265#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeComplexity/PermMissingElem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/MaxProductOfThree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="38" selection-start-line="38" selection-end-line="39" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/Triangle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" column="36" selection-start-line="25" selection-start-column="36" selection-end-line="26" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/MaxProductOfThreeProblem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeComplexity/PermMissingElem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TimeComplexity/FrogImpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrays/OddOcurracnesProblem">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/OddOccurances.java">
+    <entry file="file://$PROJECT_DIR$/src/arrays/CyclicRotationProblem">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="924">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/iterations/BinaryGapProblem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/Triangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="33" column="45" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#148#165#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#820#821#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/prefix_sums/PassingCars.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stacks_queues/BracketsProblem">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/stacks_queues/Brackets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>

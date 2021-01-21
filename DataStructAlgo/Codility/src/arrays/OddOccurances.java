@@ -1,8 +1,12 @@
+package arrays;
+
 import java.util.HashMap;
 import java.util.Set;
 
 public class OddOccurances {
     public static int solution(int[] A){
+        //Using of HashMap and storing integer values in Keys and
+        // occurences in values
         HashMap<Integer,Integer> occurancesMap=new HashMap<Integer,Integer>();
 
         for(int i=0;i<A.length;i++){
@@ -25,7 +29,7 @@ public class OddOccurances {
         }
 
 
-       throw new RuntimeException("dismis");
+       throw new RuntimeException("dismiss");
     }
     public static void main(String args[]){
         System.out.println(solution(new int[]{2,5,2,5,9}));
